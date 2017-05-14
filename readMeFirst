@@ -1,0 +1,4 @@
+Hi,
+This project is just a dummy showcase for layered architecture of spring Web MVC. Also, in this project you will see how hibernate integration work with spring.
+In this project go to http://localhost:9090/HelloWorldXML/user/register
+enter first name, and hit enter.. details will be saved into db using hibernate.
